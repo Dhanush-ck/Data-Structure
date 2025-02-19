@@ -8,7 +8,7 @@ public :
         front = rear = -1;
     }
 
-    void insert(int array[], int &size, int &front, int &rear, int &key) {
+    void insert(int array[], int &size, int &front, int &rear, int key) {
         int temp = rear;
         rear = (rear+1)%size;
         if(rear == front) {
