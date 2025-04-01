@@ -86,7 +86,7 @@ public:
 
     void removeEnd(Node* HEAD) {
         if(HEAD->next == NULL) {
-            cout<<"Linked List is empty";
+            cout<<"Linked List is empty"<<endl;
             return;
         }
         Node* Temp = HEAD;
@@ -102,12 +102,17 @@ public:
 
     void removeFirst(Node* HEAD) {
         if(HEAD->next == NULL) {
-            cout<<"Linked List is empty";
+            cout<<"Linked List is empty"<<endl;
             return;
         }
         Node* DEL = HEAD->next;
+        if(DEL->next == NULL) {
+            HEAD->next = NULL;
+            delete DEL;
+            cout<<"First node removed successfully"<<endl;
+            return;
+        }
         HEAD->next = DEL->next;
-        DEL->prev = NULL;
         (DEL->next)->prev = HEAD;
         delete DEL;
         cout<<"First node removed successfully"<<endl;
