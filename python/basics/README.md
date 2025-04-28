@@ -11,7 +11,11 @@
 ###
 ``` number_palindrome.py ``` - Program to check whether a number is palindrome or not
 ###
+``` prime.py ``` - Program to check a number is prime or not
+###
 ``` quadratic.py ``` - Program to solve quadratic equations
 ###
 ``` reverse_number.py ``` - Program to reverse a number
+###
+``` transpose.py ``` - Program to find the transpose of a matrix
 ###
