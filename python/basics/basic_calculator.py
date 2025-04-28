@@ -1,4 +1,4 @@
-# The below 5 are function which take two paramteres x & y
+# The below 5 are functions which take two paramteres x & y
 
 # Function to return sum of two numbers 
 def add(x, y):
@@ -22,7 +22,7 @@ def mod(x, y):
 
 # ch is a loop control variable
 ch = 'Y'
-# Loop to continue process accordin to the user's choice
+# Loop to continue process according to the user's choice
 while(ch == 'y' or ch == 'Y'):
     # Print choices to the user for selecting one
     print("Select the operation : ")
@@ -37,7 +37,7 @@ while(ch == 'y' or ch == 'Y'):
     x = int(input("Enter the first number : "))
     # Reading second number
     y = int(input("Enter the second number : "))
-    # Calling function according to 
+    # Calling function according to user's choice
     if(choice == 1):
         print(f"{x} + {y} = {add(x,y)}")
     elif(choice == 2):
