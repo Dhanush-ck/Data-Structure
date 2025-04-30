@@ -1,6 +1,8 @@
 # Basic Programs
 ``` basic_calculator.py ``` - Basic calculator containing basic operations (+, -, *, /, %)
 ###
+``` copy_array.py ``` - Program to copy an array to a new array
+###
 ``` factorial.py ``` - Program to find factorial of a number (Using recursion)
 ###
 ``` fibonacci.py ``` - Program to print fibonacci series (Based on the number of elements)
