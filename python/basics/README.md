@@ -3,6 +3,8 @@
 ###
 ``` copy_array.py ``` - Program to copy an array to a new array
 ###
+``` duplicate_element.py ``` - Program to find the duplicate elements from an array
+###
 ``` factorial.py ``` - Program to find factorial of a number (Using recursion)
 ###
 ``` fibonacci.py ``` - Program to print fibonacci series (Based on the number of elements)
