@@ -13,6 +13,8 @@
 ###
 ``` hcf.py ``` - Program to find HCF of two numbers (HCF - Highest Common Factor)
 ###
+``` matrix_addition.py ``` - Program for matrix addition
+###
 ``` number_palindrome.py ``` - Program to check whether a number is palindrome or not
 ###
 ``` prime.py ``` - Program to check a number is prime or not
