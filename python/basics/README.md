@@ -23,6 +23,8 @@
 ###
 ``` reverse_number.py ``` - Program to reverse a number
 ###
+``` sort_words.py ``` - Program to print all the words of a string in a sorted order
+###
 ``` string_palindrome.py ``` - Program to check whether a string is paindrome or not
 ###
 ``` transpose.py ``` - Program to find the transpose of a matrix
