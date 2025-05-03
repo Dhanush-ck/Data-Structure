@@ -12,6 +12,8 @@
 ``` grade_calculator.py ``` - Basic grade calculator using marks of 5 subjects
 ###
 ``` hcf.py ``` - Program to find HCF of two numbers (HCF - Highest Common Factor)
+### 
+``` leap_year.py ``` - Program to check whether a year is leap or not
 ###
 ``` matrix_addition.py ``` - Program for matrix addition
 ###
