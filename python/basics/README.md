@@ -33,3 +33,5 @@
 ###
 ``` transpose.py ``` - Program to find the transpose of a matrix
 ###
+``` vowels_count.py ``` - Program to print the count of vowels in a string
+###
