@@ -1,4 +1,7 @@
 # Basic Programs
+###
+``` anonymous_fn.py ``` - Program using anonymous function to print the power of 2 till the limit
+###
 ``` basic_calculator.py ``` - Basic calculator containing basic operations (+, -, *, /, %)
 ###
 ``` calendar_print.py ``` - Program to print calendar according to year and month
