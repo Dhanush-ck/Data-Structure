@@ -1,13 +1,13 @@
 # C++
-```linkedlist``` - contains programs related to linkedlist
+``` linkedlist ``` - contains programs related to linkedlist
 ###
-```queue``` - contains program related to operations on queue
+``` queue ``` - contains program related to operations on queue
 ###
-```search``` - contains different search algorithm applications
+``` search ``` - contains different search algorithm applications
 ###
-```sort``` - contains different search algorith applications
+``` sort ``` - contains different search algorithm applications
 ###
-```stack``` - contains programs related to operations on stack
+``` stack ``` - contains programs related to operations on stack
 ###
 ``` addpoly.cpp ``` - Program to add two polynomials
 ###
