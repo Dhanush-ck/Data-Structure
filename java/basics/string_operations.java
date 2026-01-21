@@ -1,5 +1,5 @@
 import java.io.*;
-class Select {
+class StringOperation {
     public static void main(String args[])throws IOException {
         DataInputStream ob = new DataInputStream(System.in);
         String S1=new String();
