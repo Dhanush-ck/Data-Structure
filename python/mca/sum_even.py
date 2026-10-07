@@ -1,0 +1,1 @@
+print("Sum of first 100 even numbers is", sum([i for i in range(201) if i%2==0]))
