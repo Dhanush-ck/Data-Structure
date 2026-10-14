@@ -5,5 +5,7 @@
 ###
 ``` stack ``` - contains programs related to operations on stack
 ###
+``` tree ``` - contains programs of different kinds of trees
+###
 ``` array.c ``` - Program for array operation
 ###
