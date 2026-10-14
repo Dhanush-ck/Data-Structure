@@ -1,6 +1,12 @@
-## Breif Explanation
-- Linkedlist 
-     - contains nodes having a data part and address part
-     - data part holds data
-     - address part holds the address of next node
-     - size is not fixed
+## Brief Explanation
+- Linked List
+     - dynamic linear data structure composed of connected nodes
+     - size is not fixed (allocated dynamically in memory)
+- Singly Linked List
+     - each node contains a data field and a single pointer
+     - pointer stores the address of the next node
+     - traversal occurs in one direction only (forward)
+- Doubly Linked List
+     - each node contains a data field and two pointers
+     - pointers store addresses of both the next and previous nodes
+     - supports two-way traversal (forward and backward)
