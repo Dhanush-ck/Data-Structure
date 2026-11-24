@@ -1,5 +1,5 @@
 ## Breif Explanation
--Tree
+- Tree
      - non-linear hierarchical data structure
      - consists of nodes connected by edges
      - topmost node is called the root node
